@@ -1,6 +1,6 @@
 # Heart Disease
 
-In this project, you have to predict whether a patient has a low chance of a heart attack or a high chance, according to the medical information of a patient, which is fully described below?! The data is saved in heart.csv file.
+In this project, you have to predict whether a patient has a low chance of heart attack or a high chance according to the medical information of a patient?!
 
 ## Model that used
 
