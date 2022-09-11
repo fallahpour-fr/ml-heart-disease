@@ -6,6 +6,7 @@ In this project, you have to predict whether a patient has a low chance of heart
 
 * Use  statistical modeling including KNN, SVM, Desion Tree, logistic regression 
 * Use confusion matrix and classification_report model for check prediction
+* GridSearchCV Model selection
 
 ## Library and pakage that used
 
